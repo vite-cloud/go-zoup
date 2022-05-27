@@ -1,5 +1,5 @@
 # Zoup
-
+[![Go Reference](https://pkg.go.dev/badge/github.com/vite-cloud/go-zoup.svg)](https://pkg.go.dev/github.com/vite-cloud/go-zoup)
 [![Tests](https://github.com/vite-cloud/go-zoup/actions/workflows/tests.yml/badge.svg)](https://github.com/vite-cloud/go-zoup/actions/workflows/tests.yml)
 [![codecov](https://codecov.io/gh/vite-cloud/go-zoup/branch/main/graph/badge.svg?token=2EBL0P4UN6)](https://codecov.io/gh/vite-cloud/go-zoup)
 
