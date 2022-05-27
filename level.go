@@ -1,4 +1,4 @@
-package log
+package zoup
 
 // Level is a log Level from 0 to 4
 type Level int
